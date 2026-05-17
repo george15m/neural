@@ -33,7 +33,7 @@ The MLP model consists of:
 Input Layer: 784 neurons
 Hidden Layer 1: 256 neurons + BatchNorm + ReLU + Dropout
 Hidden Layer 2: 128 neurons + BatchNorm + ReLU + Dropout
-Output Layer: 64 neurons
+Output Layer: 10 neurons
 
 Optimizer: Adam Optimizer
 Loss Function: CrossEntropyLoss
