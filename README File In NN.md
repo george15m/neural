@@ -26,7 +26,7 @@ The dataset contains:
 Grayscale images of size 28×28 pixels
 
 
-Dataset Link :https://github.com/zalandoresearch/fashion-mnist?utm_source=chatgpt.com
+Dataset Link [:https://github.com/zalandoresearch/fashion-mnist?utm_source=chatgpt.com](https://github.com/george15m/neural)
 
 Model Architecture
 The MLP model consists of:
